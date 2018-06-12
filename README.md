@@ -74,4 +74,4 @@ Credit : https://github.com/rickellis/ConkyMatic
 
 <img src="https://i.imgur.com/0wnpjL0.jpg" />
 <img src="https://i.imgur.com/7ijT10a.jpg" />
-<img src="https://i.imgur.com/RkKvZhg.jpg />
+<img src="https://i.imgur.com/RkKvZhg.jpg" />
