@@ -41,6 +41,7 @@ $   ./conkymatic_2.sh /path/to/your/wallpaper.jpg
 Important: Before running ConkyMatic make a backup copy of your .conkyrc file since it will get overwritten.
 
 
+
 Customization
 
 In the Templates directory you'll find the default.conky template. This is a normal .conkyrc file, except it contains some pseudo-variables that get replaced by the script with random color values. A list of available variables can be found below.
