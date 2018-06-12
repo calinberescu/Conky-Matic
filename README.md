@@ -71,3 +71,5 @@ The template variables are just text placeholders which get replaced when the sc
 
 
 Credit : https://github.com/rickellis/ConkyMatic
+
+<img src="https://i.imgur.com/0wnpjL0.jpg" />
