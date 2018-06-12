@@ -54,18 +54,18 @@ Template Variables
 
 The template variables are just text placeholders which get replaced when the script gets run. The following variables are available for use. The colors will be assigned automatically from your wallpaper colors.
 
-_VAR:COLOR_TIME_
-_VAR:COLOR_DATE_
-_VAR:COLOR_WEATHER_
-_VAR:COLOR_HEADING_
-_VAR:COLOR_SUBHEADING_
-_VAR:COLOR_TEXT_
-_VAR:COLOR_DATA_
-_VAR:COLOR_HR_
-_VAR:COLOR_BARS_NORM_
-_VAR:COLOR_BARS_WARN_
-_VAR:COLOR_BORDER_
-_VAR:COLOR_BACKGROUND_
+    _VAR:COLOR_TIME_ 
+    _VAR:COLOR_DATE_ 
+    _VAR:COLOR_WEATHER_ 
+    _VAR:COLOR_HEADING_ 
+    _VAR:COLOR_SUBHEADING_ 
+    _VAR:COLOR_TEXT_ 
+    _VAR:COLOR_DATA_
+    _VAR:COLOR_HR_
+    _VAR:COLOR_BARS_NORM_
+    _VAR:COLOR_BARS_WARN_
+    _VAR:COLOR_BORDER_
+    _VAR:COLOR_BACKGROUND_
 
 
 Credit : https://github.com/rickellis/ConkyMatic
