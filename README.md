@@ -39,6 +39,7 @@ You can also manually pass the path to your wallpaper as an argument:
 $   ./conkymatic_2.sh /path/to/your/wallpaper.jpg
 
 Important: Before running ConkyMatic make a backup copy of your .conkyrc file since it will get overwritten.
+           You will have to copy file widget_rings.lua to  '$HOME/.config/conky/lua/widget_rings.lua' for WO-Holo.conky            to run properly.
 
 
 
